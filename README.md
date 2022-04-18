@@ -8,12 +8,13 @@
 
 **Description** : An operating system written from scratch. It just prints Hello World for now, but will be extended for more features soon.
 
-**Softwares I used** : 1. Windows 11 - Host OS
-                       2. VS CODE - Text Editor
-                       3. Docker - For using build tools
-                       4. QEMU - To test run my OS
-                       5. Git and GitHub - To push the repo to my GitHub
+**Softwares I used** : 
+1. Windows 11 - Host OS
+2. VS CODE - Text Editor
+3. Docker - For using build tools
+4. QEMU - To test run my OS
+5. Git and GitHub - To push the repo to my GitHub
 
 **Credits** : The videos that I referred to while making my os.
-              Part 1. [Part 1](https://www.youtube.com/watch?v=FkrpUaGThTQ&t)
-              Part 2. [Part 2](https://www.youtube.com/watch?v=wz9CZBeXR6U)
+[Part 1](https://www.youtube.com/watch?v=FkrpUaGThTQ&t)
+[Part 2](https://www.youtube.com/watch?v=wz9CZBeXR6U)
