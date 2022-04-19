@@ -16,5 +16,5 @@
 5. Git and GitHub - To push the repo to my GitHub
 
 **Credits** : The videos that I referred to while making my os.
-[Part 1](https://www.youtube.com/watch?v=FkrpUaGThTQ&t)
-[Part 2](https://www.youtube.com/watch?v=wz9CZBeXR6U)
+1. [Part 1](https://www.youtube.com/watch?v=FkrpUaGThTQ&t)
+2. [Part 2](https://www.youtube.com/watch?v=wz9CZBeXR6U)
